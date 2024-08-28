@@ -8,8 +8,7 @@ Synthesize captions on images from a folder:
 ```
 python blip_captions.py
 ```
-<br/>
-<br/>
+
 View results in an HTML:
 ```
 python blip_captions_interface.py
