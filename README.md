@@ -10,7 +10,7 @@ python blip_captions.py
 ```
 <br/>
 <br/>
-View results in an HTML:  
+View results in an HTML:<br/>
 ```
 python blip_captions_interface.py
 ```
